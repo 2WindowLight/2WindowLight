@@ -23,9 +23,7 @@
 
 <div align=center>]
     <br>
-  <img src="https://www.credly.com/badges/c19f2dd0-045f-416b-a14d-85d40afe69ee/public_url" />
-![ccna-enterprise-networking-security-and-automation](https://github.com/user-attachments/assets/ca283b93-ae4f-4615-84b2-b1081bea5303)
-
+  <img src="https://github.com/user-attachments/assets/ca283b93-ae4f-4615-84b2-b1081bea5303" />
 
   
 </div>
