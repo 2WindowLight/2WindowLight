@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white" alt="VMware Logo" />
 
 
-<div align=center>]
+<div align=center>
     <br>
   <img src="https://github.com/user-attachments/assets/ca283b93-ae4f-4615-84b2-b1081bea5303" />
 
